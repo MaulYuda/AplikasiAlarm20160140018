@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AplikasiAlarm</string>
+
+
+    <string name="empty_view_text">Tekan Tombol Bulat untuk menambah alarm!!!</string>
+
+
+    <string name="time">Waktu</string>
+    <string name="label">Pesan</string>
+    <string name="days">Hari</string>
+    <string name="edit_alarm">Ubah Alarm</string>
+    <string name="add_alarm">Tambah Alarm</string>
+    <string name="add_label_hint">Tambahkan Sebuah Pesan!</string>
+    <string name="update_complete">Simpan Perubahan</string>
+    <string name="update_failed">Update Gagal</string>
+    <string name="delete_complete">Alarm Dihapus</string>
+    <string name="delete_failed">menghapus gagal</string>
+    <string name="delete_dialog_title">Konfirmasi Hapus Alarm</string>
+    <string name="delete_dialog_content">Apakah kamu yakin ingin menghapus alarm?</string>
+    <string name="yes">Iya</string>
+    <string name="no">Tidak</string>
+
+
+    <string name="action_save">Simpan</string>
+    <string name="action_delete">Hapus</string>
+
+
+    <string name="launch_main_activity">Masuk Ke Aplikasi Alarm</string>
+    <string name="dismiss">Berhentikan</string>
+
+
+    <string name="monday">Senin</string>
+    <string name="tuesday">Selasa</string>
+    <string name="wednesday">Rabu</string>
+    <string name="thursday">Kamis</string>
+    <string name="friday">Jumat</string>
+    <string name="saturday">Sabtu</string>
+    <string name="sunday">Minggu</string>
+
+
+    <string name="channel_name">Aplikasi Alarm</string>
+
+</resources>

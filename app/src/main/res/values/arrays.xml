@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="days_abbreviated">
+        <item>S</item>
+        <item>Se</item>
+        <item>R</item>
+        <item>K</item>
+        <item>J</item>
+        <item>Sa</item>
+        <item>M</item>
+    </string-array>
+
+</resources>
